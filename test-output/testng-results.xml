@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14952" started-at="2019-06-30T16:33:34Z" finished-at="2019-06-30T16:33:49Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14952" started-at="2019-06-30T16:33:34Z" finished-at="2019-06-30T16:33:49Z">
+      <class name="eggtimerTestCases.test_1$Test_1">
+        <test-method status="PASS" signature="beforetest()[pri:0, instance:eggtimerTestCases.test_1$Test_1@5c3bd550]" name="beforetest" is-config="true" duration-ms="5116" started-at="2019-06-30T16:33:34Z" finished-at="2019-06-30T16:33:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:eggtimerTestCases.test_1$Test_1@5c3bd550]" name="beforemethod" is-config="true" duration-ms="3818" started-at="2019-06-30T16:33:39Z" finished-at="2019-06-30T16:33:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="test1_3sec()[pri:2, instance:eggtimerTestCases.test_1$Test_1@5c3bd550]" name="test1_3sec" duration-ms="5174" started-at="2019-06-30T16:33:43Z" finished-at="2019-06-30T16:33:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1_3sec -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:eggtimerTestCases.test_1$Test_1@5c3bd550]" name="aftermethod" is-config="true" duration-ms="309" started-at="2019-06-30T16:33:48Z" finished-at="2019-06-30T16:33:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="aftertest()[pri:0, instance:eggtimerTestCases.test_1$Test_1@5c3bd550]" name="aftertest" is-config="true" duration-ms="490" started-at="2019-06-30T16:33:48Z" finished-at="2019-06-30T16:33:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+      </class> <!-- eggtimerTestCases.test_1$Test_1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

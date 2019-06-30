@@ -1,0 +1,10 @@
+defects on the site:
+
+1. Requirement of valid inputs not given for time eg: 5 secs, 5 seconds, 25.09.2019 etc
+2. Requirement of valid inputs Date eg: dd/mm/yyyy, mm/dd/yyyy
+2. Option(beta): user entries are not saved on Options tab
+3. After 'time expired', if the page is refreshed, the counter runs but the alertsound & Alertbox is missing
+4. many invalid entries accepted: 'minutess', 'minsx', 'secss','secondss','hoursx' etc with wrong details. 
+5. No error message for invalid entry (time), message as 'time expired' shown
+6. No specific message with date format with / or . eg. 25/09/2019 or 25.09.2019
+7.
